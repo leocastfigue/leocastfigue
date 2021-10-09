@@ -1,7 +1,44 @@
-<p align="center">
-<video width="270" height="300" control autoplay>
-  <source src="/Users/leocastfig/Desktop/video (1).mp4" type "video/mp4"
-</video>
-  </p>
+<div align="center">
+<img src="https://media.giphy.com/media/zega7FnLuomtjhVV1T/giphy.gif" width="1000" height="500">
+</div>
+
+<h2>About me</h2>
+
+- 🇦🇷  I'm from Mendoza, Argentina
+- 💻  Tech enthusiast <br>
+- ⚽️  Futbol fan <br>
+- 🐶  Dogs lover <br>
+
+<h2>Tecnologies</h2>
+
+  
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 
+<h2>Find me</h2>
+
+  <a href="https://in.linkedin.com/in/leo-figueroa-29072921b/" target="_blank">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/leocastfig" target="_blank">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/leocastfig/" target="_blank">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:shubhamdeepjha@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
+<br> <br> <br> ![visitors](https://visitor-badge.glitch.me/badge?page_id=leocastfigue.leocastfigue)
+
+---
+<div align="center">
+⭐ Thank you for your visit coders, and may the force be with you!
+  </div>
